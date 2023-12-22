@@ -24,4 +24,4 @@ Aqui estão algumas das tecnologias que possuo conhecimento:
 
 Fique à vontade para explorar meus repositórios e entrar em contato! 😊
 
-![Snake animation](https://github.com/TatianeIvanof/TatianeIvanof/blob/output/github-contribution-grid-snake.svg)
+
