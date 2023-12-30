@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias que possuo conhecimento:
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-ivanof/)
 
-![snake gif](https://github.com/TatianeIvanof/TatianeIvanof/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TatianeIvanof/TatianeIvanof/blob/output/github-contribution-grid-snake.svg)
 
 Fique à vontade para explorar meus repositórios e entrar em contato! 😊
 
