@@ -3,7 +3,7 @@
 Sou apaixonada em analisar informações e dados, gosto de assuntos sobre cibersegurança e a arte de buscar informações através de ferramentas. Estou sempre explorando novas maneiras de entender novas técnicas de pesquisa, exploração e conhecimento. 
 
 - 🔭 Atualmente estou me adequando para uma transição de carreira na área tecnológica.
-- 🌱 Estou na reta final de concluir minha graduação em Ciencia de Dados pela Univesp. 
+- 🌱 Formada em Ciencia de Dados pela Univesp. 
 
 ## Linguagens e Ferramentas
 Aqui estão algumas das tecnologias que possuo conhecimento:
